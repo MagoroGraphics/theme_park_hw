@@ -29,8 +29,8 @@ public class IceCreamStallTest {
         assertEquals(ParkingSpot.A4, iceCreamStall.getParkingSpot());
     }
 
-//    @Test
-//    public void hasRating(){
-//        assertEquals(8, iceCreamStall.getRating());
-//    }
+    @Test
+    public void hasRating(){
+        assertEquals(8, iceCreamStall.getRating());
+    }
 }

@@ -30,10 +30,10 @@ public class CandyflossStallTest {
         assertEquals(ParkingSpot.A1, candyflossStall.getParkingSpot());
     }
 
-//    @Test
-//    public void hasRating(){
-//        assertEquals(5, candyflossStall.getRating());
-//    }
+    @Test
+    public void hasRating(){
+        assertEquals(5, candyflossStall.getRating());
+    }
 
 
 

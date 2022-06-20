@@ -31,6 +31,6 @@ public abstract class Stall implements IReviewed {
 
     @Override
     public int getRating() {
-        return this.getRating();
+        return this.rating;
     }
 }
